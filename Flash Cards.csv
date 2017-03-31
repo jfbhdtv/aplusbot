@@ -1,0 +1,20 @@
+Name,Port(s),,Description
+HTTP,80,,Web Pages
+HTTPS,443,,Secure Web Pages
+FTP,"20, 21",,File Transfer
+SFTP,22,,Secure File Transfer
+IMAP,143,,Incoming e-mail
+POP3,110,,Incoming e-mail
+SMTP,25,,Outgoing e-mail
+Telnet,23,,Terminal Emulation
+SSH,22,,Encrypted Terminal Emulation
+RDP,3389,,Remote Desktop
+SIP,5060,,Voice over IP
+,,,
+DNS,53,UDP,Allows the use of DNS naming
+DHCP,"67, 68",UDP,Automatic IP addressing
+LDAP,389,TCP,Querying directories
+SNMP,161,UDP,Remote management of network devices
+SMB,445,TCP,Windows naming/folder sharing; also CIFS
+,"137, 138, 139",UDP,
+AFP,"548, 427",TCP,Mac OS X file services
